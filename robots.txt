@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /webstat/
+Disallow: /uploadify/
+Disallow: /system/
+Disallow: /cgi-bin/
+#Sitemap: http://mysite.ru/site_structure/my_sitemaps1.xml
